@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Lavarropas SAMSUNG 9kg",
+    "price": 950000,
+    "category": "inverter",
+    "description": "AUTOMÁTICO WW95AA046BXUBG INVERTER 9.5KG",
+    "imageUrl": "/images/inverter.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Lavarropas DREAM 6Kg.",
+    "price": 8000000,
+    "category": "eco",
+    "description": "ECO carga frontal 6kg 800rpm",
+    "imageUrl": "/images/drean.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Lavarropas CODINI 6 Kg.",
+    "category": "inverter",
+    "price": 1200000,
+    "description": "Automatico Inv Wash 6010Gi 6K 1000Rpm",
+    "imageUrl": "/images/codini.jpg"
+  }
+]

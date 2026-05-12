@@ -1,0 +1,33 @@
+.contenedor{
+    display:flex;
+    flex-direction: row ;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+    margin-top: 20px;
+           
+}
+
+.caja {
+    background-color: white;
+    padding: 10px;
+    margin:5px;
+    flex-grow: 1;
+    flex-basis: 100px;
+    
+    
+}
+
+.in-cart {
+  background-color: red;
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: white;
+  border-radius: 50%;
+  padding: 0.25em 0.5em;
+  display: inline-block;
+  min-width: 20px; /* asegura que sea redondo aunque sea "1" */
+  text-align: center;
+  margin-left: 0.25rem;
+}
