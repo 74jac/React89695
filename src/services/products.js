@@ -20,15 +20,7 @@ export const createProduct = async (product) => {
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
-const firebaseConfig = {
-  apiKey: "AIzaSyD0bS9pv88qXSJ41LJJWWGaWXgCiwiTPDY",
-  authDomain: "project-5874561455014826691.firebaseapp.com",
-  projectId: "project-5874561455014826691",
-  storageBucket: "project-5874561455014826691.firebasestorage.app",
-  messagingSenderId: "898011724668",
-  appId: "1:898011724668:web:33db6b517c70a5d15742f9"
-};
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
